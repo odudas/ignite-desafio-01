@@ -14,7 +14,7 @@ O ToDo List basicamente é uma lista de tarefas onde é possível adicionar/remo
 
 ## 📍Status do Projeto📍:
 
-✅ Concluído
+Em desenvolvimento...
 
 ## 📁 Acesso ao Projeto
 
